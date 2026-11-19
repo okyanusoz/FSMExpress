@@ -1,4 +1,4 @@
-Rewrite of FSMViewAvalonia. Should work on any FSM game.
+Rewrite of FSMViewAvalonia. Should work on any FSM game. (forked for fresh builds)
 
 ![FSMExpress](screenshot.png)
 
